@@ -46,7 +46,7 @@ A web application and API for tracking each user’s most-viewed menu items, usi
 - **B.S. in Computer Science, Northeastern University** — expected April 2029; Dean’s List for two semesters.
 - Coursework includes Program Design and Implementation, Theory of Computation, Computer Systems, and Game Programming.
 - Additional coursework in software development at Harvard’s Secondary School Program and data science at Columbia’s Pre-College Program.
-- Founded and led the **Robert College Esports Club (2021–2025)**, recruiting 40 members and coordinating teams, events, and club operations.
+- Participated in the foundation and led the **Robert College Esports Club (2021–2025)**, recruiting 40 members and coordinating teams, events, and club operations.
 
 ---
 
